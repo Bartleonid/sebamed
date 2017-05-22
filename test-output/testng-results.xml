@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="55605" started-at="2017-05-22T05:47:02Z" finished-at="2017-05-22T05:47:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="55605" started-at="2017-05-22T05:47:02Z" finished-at="2017-05-22T05:47:58Z">
+      <class name="com.sebamed.test.TestOrder">
+        <test-method status="PASS" signature="Order(com.sebamed.items.User)[pri:0, instance:com.sebamed.test.TestOrder@46d56d67]" name="Order" duration-ms="55584" started-at="2017-05-22T08:47:02Z" data-provider="getData" finished-at="2017-05-22T08:47:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.sebamed.items.User@5702b3b1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Order -->
+      </class> <!-- com.sebamed.test.TestOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
